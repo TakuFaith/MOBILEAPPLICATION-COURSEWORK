@@ -1,0 +1,77 @@
+{
+  "bibliography": {
+    "book": [
+      {
+        "@category": "Web Services",
+        "title": "Web Services: Concepts, Architecture and Applications",
+        "author": [
+          "G. Alonso",
+          "F. Casati",
+          "H. Kuno",
+          "V. Machiraju"
+        ],
+        "year": "2004",
+        "publisher": "Springer Verlag"
+      }
+    ],
+    "article": [
+      {
+        "author": [
+          "Michael Adams",
+          "Arthur H. M. ter Hofstede",
+          "David Edmond",
+          "Wil M. P. van der Aalst"
+        ],
+        "title": "Worklets: A service-oriented implementation of dynamic flexibility in workflows",
+        "year": "2006",
+        "startpage": 291,
+        "endpage": 308,
+        "journal": "Lecture Notes in Computer Science",
+        "volume": 4275,
+        "publisher": "Springer"
+      },
+      {
+        "author": [
+          "H. Boley",
+          "S. Tabet",
+          "G. Wagner"
+        ],
+        "title": "Design rationale for RuleML: A markup language for semantic web rules",
+        "year": "2001",
+        "startpage": 381,
+        "endpage": 401,
+        "journal": "SWWS"
+      },
+      {
+        "author": "F. Kamoun",
+        "title": "A roadmap towards the convergence of business process management and service oriented architecture",
+        "year": "2007",
+        "journal": "Ubiquity",
+        "volume": 8,
+        "issue": 14,
+        "publisher": "ACM Press"
+      }
+    ],
+    "unpublished": [
+      {
+        "author": [
+          "M.G. Buscemi",
+          "L. Ferrari",
+          "C. Moiso",
+          "U. Montanari"
+        ],
+        "title": "Constraint-based policy negotiation and enforcement for telco services",
+        "year": "2007",
+        "note": "Unpublished manuscript"
+      }
+    ],
+    "website": [
+      {
+        "author": "J. Schlimmer",
+        "title": "Web Services Policy 1.2 – Framework (WS-Policy)",
+        "date": "10 April 2006",
+        "url": "http://www.w3.org/Submission/WS-Policy/"
+      }
+    ]
+  }
+}

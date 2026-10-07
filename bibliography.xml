@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bibliography.xsd">
+    <book>
+        <author>G.Alonso</author>
+        <author>F.Casarati</author>
+        <author>H.Kuno</author>
+        <author>V.Machiraju</author>
+        <title>Web Services: Concepts, Architecture and Applications</title>
+        <year>2004</year>
+        <publisher>Springer</publisher>
+    </book>
+
+    <article>
+        <author>Michael Adams</author>
+        <author>Authur H.M. Hofstede</author>
+        <author>David Edmond</author>
+        <author>Wil M. P. van der Aalst</author>
+        <title>Worklets: A service-oriented implementation of dynamic flexibility in workflows</title>
+        <year>2004</year>
+        <startpage>381</startpage>
+        <endpage>401</endpage>
+        <journal>Lecture notes in Computer science</journal>
+        <publisher>Springer</publisher>
+    </article>
+
+    <article>
+        <author>G.Alonso</author>
+        <author>H.Boley</author>
+        <author>H.Kuno</author>
+        <author>V.Machiraju</author>
+        <title>Web Service: A Dummy Example</title>
+        <year>381</year>
+        <startpage>381</startpage>
+        <endpage>401</endpage>
+        <journal>Lecture Notes in Computer Science</journal>
+        <publisher>Springer</publisher>
+    </article>
+
+    <article>
+        <author>H.Boley</author>
+        <author>S.Tabet</author>
+        <author>G.Wagner</author>
+        <author>Wil M. P. van der Aalst</author>
+        <title>Design rationale for releml: A markup language for semantic webrules</title>
+        <year>2001</year>
+        <startpage>381</startpage>
+        <endpage>401</endpage>
+        <journal>SWWWS</journal>
+    </article>
+
+    <unpubwork>
+        <author>M. G. Buscemi</author>
+        <author>L. Ferrari</author>
+        <author>C. Moiso</author>
+        <author>U. Montanari</author>
+        <title>Constraint-based policy negotiation and enforcement for telso services</title>
+        <year>2007</year>
+    </unpubwork>
+</bibliography>
